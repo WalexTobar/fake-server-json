@@ -1,62 +1,61 @@
-[
-     {
-         "title": "first title",
-         "content": "first content",
-         "status": "publish"
-     },
-     {
-         "title": "second title",
-         "content": "second content",
-         "status": "draft"
-     },
-     {
-         "title": "third title",
-         "content": "third content",
-         "status": "trash"
-     },
-     {
-         "title": "fourth title",
-         "content": "fourth content",
-         "status": "publish"
-     },
-     {
-         "title": "fiveth title",
-         "content": "fiveth content",
-         "status": "publish"
-     },
-     {
-         "title": "sixth title",
-         "content": "sixth content",
-         "status": "publish"
-     },
-      {
-          "title": "serveth title",
-          "content": "serveth content",
-          "status": "draft"
-      },
-       {
-           "title": "eighth title",
-           "content": "eighth content",
-           "status": "draft"
-       },
-        {
-            "title": "ninth title",
-            "content": "ninth content",
-            "status": "draft"
-        },
-        {
-            "title": "tenth title",
-            "content": "tenth content",
-            "status": "draft"
-        },
-        {
-            "title": "tenth-first title",
-            "content": "tenth-fist content",
-            "status": "trash"
-        },
-        {
-            "title": "tenth-second title",
-            "content": "tenth-second content",
-            "status": "publish"
-        }
+[{
+        "title": "first title",
+        "content": "first content",
+        "status": "publish"
+    },
+    {
+        "title": "second title",
+        "content": "second content",
+        "status": "draft"
+    },
+    {
+        "title": "third title",
+        "content": "third content",
+        "status": "trash"
+    },
+    {
+        "title": "fourth title",
+        "content": "fourth content",
+        "status": "publish"
+    },
+    {
+        "title": "fiveth title",
+        "content": "fiveth content",
+        "status": "publish"
+    },
+    {
+        "title": "sixth title",
+        "content": "sixth content",
+        "status": "publish"
+    },
+    {
+        "title": "serveth title",
+        "content": "serveth content",
+        "status": "draft"
+    },
+    {
+        "title": "eighth title",
+        "content": "eighth content",
+        "status": "draft"
+    },
+    {
+        "title": "ninth title",
+        "content": "ninth content",
+        "status": "draft"
+    },
+    {
+        "title": "tenth title",
+        "content": "tenth content",
+        "status": "draft"
+    },
+    {
+        "title": "tenth-first title",
+        "content": "tenth-fist content",
+        "status": "trash"
+    },
+    {
+        "title": "tenth-second title",
+        "content": "tenth-second content",
+        "status": "publish"
+    }
 ]
