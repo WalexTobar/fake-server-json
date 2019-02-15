@@ -11,7 +11,7 @@
     {
         "title": "third title",
         "content": "third content",
-        "status": "trash"
+        "status": "publish"
     },
     {
         "title": "fourth title",
@@ -51,7 +51,7 @@
     {
         "title": "tenth-first title",
         "content": "tenth-fist content",
-        "status": "trash"
+        "status": "draft"
     },
     {
         "title": "tenth-second title",
